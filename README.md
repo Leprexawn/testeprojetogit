@@ -1,2 +1,2 @@
 # testeprojetogit
-Teste de aprendizagem em git
+Teste de aprendizagem em git.
